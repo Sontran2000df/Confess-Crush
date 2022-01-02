@@ -14,5 +14,6 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu Em nhiều nhiều, ôm nè, Sinh nhật vui vẻ nhé, năm nay em có anh ròi đấy😘😘',
-    messDesc: " Ngoan đi Anh Thương"
-    btnAccept: " Okiii lunnn nhóa"
+    messDesc: " Ngoan đi Anh Thương.",
+    btnAccept: " Okiii lunnn nhóa",
+    messlink: 'https://www.instagram.com/trlehoangson/'
