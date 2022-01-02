@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Chúc Mừng Sinh nhật Crush cục nợ khó tính của anh",
+    titleWeb: "Chúc mừng sinh nhật Em",
     introTitle: 'Lê Hà Linh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -14,3 +14,5 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu Em nhiều nhiều, ôm nè, Sinh nhật vui vẻ nhé, năm nay em có anh ròi đấy😘😘',
+    messDesc: " Ngoan đi Anh Thương"
+    btnAccept: " Okiii lunnn nhóa"
